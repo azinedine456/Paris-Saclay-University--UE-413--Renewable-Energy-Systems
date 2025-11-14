@@ -72,7 +72,8 @@ All subsystems were modeled and implemented in **MATLAB/Simulink**.
 ---
 
 ## Simulation Results & Final Simulink Diagram (Wind Turbine & IM MPPT)
-<img width="1530" height="578" alt="image" src="https://github.com/user-attachments/assets/7e222b61-58c8-4044-9485-02b1b0d10e19" />
+<img width="1535" height="514" alt="image" src="https://github.com/user-attachments/assets/d0eed598-e25c-4f3d-810e-06bab3690110" />
+
 
 
 
